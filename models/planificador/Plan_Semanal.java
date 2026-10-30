@@ -49,7 +49,7 @@ public class Plan_Semanal {
         return activo;
     }
     public void setActivo(Boolean activo) {
-        this.activo = activo;     
+        this.activo = activo;        
     }
     public Long getIdUsuario() {
         return idUsuario;
